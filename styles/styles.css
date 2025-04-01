@@ -67,7 +67,7 @@ body {
 
 /* Hero Section */
 .background-main {
-    background-image: url(../images/descarga.png);
+    background-image: url(../images/descarga.webp);
 }
 
 .hero {
@@ -1079,5 +1079,9 @@ a {
     .approach-text {
         font-size: 14px; /* Ajusta el tamaño del texto para móviles */
         line-height: 1.5; /* Mejora la legibilidad */
+    }
+
+    .therapies{
+        padding: 0px;
     }
 }
